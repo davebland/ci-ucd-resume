@@ -30,6 +30,14 @@
     background-color: #3498db;
 }
 
+.ui-menu-color-interests {
+    background-color: darkorange;
+}
+
+.ui-menu-color-github {
+    background-color: darkblue;
+}
+
 .ui-menu-color-download {
     background-color: #525252;
 }
@@ -361,6 +369,10 @@ button[type="submit"] {
     color: #fafafa;
     background-color: #e84610;
 }
+
+/* -- Maps -- */
+
+div#map {min-height: 360px;}
 
 /* --Media Queries-- */
 
